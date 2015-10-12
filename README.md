@@ -1,4 +1,4 @@
-# search-directive — the seed for AngularJS apps
+# search-directive — testing transclusion beyond transclude in directives.
 
 This project extends angular-seed application skeleton for testing transclude and isolation scopes in a web app.
 
